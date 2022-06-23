@@ -1,2 +1,2 @@
 #!/bin/bash
-alias pwd='echo $HOME'
+alias pwd=echo $HOME
