@@ -1,2 +1,2 @@
 #!/bin/bash
-who
+cat /etc/group
