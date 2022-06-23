@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a -p -m | sort | sed 's/$/\n/'
