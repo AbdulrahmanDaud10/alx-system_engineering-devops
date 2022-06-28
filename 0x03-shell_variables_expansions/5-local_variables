@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv BASH
+printenv BASH=/usr/bin/bash
