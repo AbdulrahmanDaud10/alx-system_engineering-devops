@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Everyone is a proppnent of strong encryption' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+tr 'a-zA-Z' 'n-za-mN-ZA-M'
