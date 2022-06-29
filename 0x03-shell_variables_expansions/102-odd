@@ -1,0 +1,2 @@
+#!/bin/bash
+awk ' NR % 2 == 1 { print; } NR % 2 ==0 {print | "grep -o [actgnACTGN] | wc -l"; }' README
